@@ -1,0 +1,33 @@
+name: muhamadsatria
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/cappucino.png
+    - assets/images/latte.png
+    - assets/images/torabika.png
+    - assets/images/americano.png
+    - assets/images/coffe.png
+    - assets/images/icon.jpg
+    - assets/images/star.png
+    - assets/images/bean.png
+    - assets/images/milk.png
+    - assets/images/hmti.png
+    - assets/images/kopi.png
